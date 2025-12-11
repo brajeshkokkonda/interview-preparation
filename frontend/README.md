@@ -2,8 +2,14 @@
 
 ### React (by Meta)
 
-- React Fundamentals
+- TypeScript
+- Virtual DOM
 
 ### Angular (by Google)
 
-- Angular Fundamentals
+- TypeScript
+- RxJS
+- NgRx
+- NGXS
+- UI/UX Principles
+- Material/PrimeNG

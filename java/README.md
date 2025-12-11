@@ -11,7 +11,8 @@
 - Multithreading & Concurrency
 - Reflection API
 - Exception Handling
-- Design Patterns (Creational, Structural, Behavioral)
+- Design Patterns (GoF --> Creational, Structural, Behavioral)
+- Clean Code Principles
 - System Design
 - Problem-Solving (string manipulation, finding unique elements, searching, sorting etc...) -> Sources: LeetCode, HackerRank, CodeSignal
 
@@ -22,7 +23,7 @@
 - Aspect Oriented Programming (AOP)
 - Spring Boot Internals
 - REST API Best Practices
-- Data Layer / Spring Data JPA
+- Data Layer / Spring Data JPA (Hibernate)
 - Spring Security (OAuth/JWT/Roles)
 - Annotations, Lombok
 
@@ -34,13 +35,15 @@
 
 ### Testing & Quality
 
+- Unit & Integration Tests, Test Coverage Metrics
 - JUnit 5
 - Mockito
 - Test containers, Embedded postgres/kafka
 - JMeter
+- SonarQube & Jacoco
 
-### Tools
+### Others
 
 - Maven Build Tool
-- SonarQube
-- Jacoco
+- Redis Cache
+- Logs Monitoring (Splunk, Big Panda)
