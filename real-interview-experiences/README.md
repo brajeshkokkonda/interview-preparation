@@ -2,7 +2,7 @@
 
 ### Nov-Dec 2025
 
-###- Using Enum in Java, writean  abstract method to perform ADD, SUB, MUL
+✅ Using Enum in Java, writean  abstract method to perform ADD, SUB, MUL
 - Java Collections (List.of, Arrays.asList, Map, List, Set, Queue, Mutable vs Immutable, Thread safe, HashMap & ConcurrentHashMap) -> Internal Implementations
 - Generics (to perform the add operation)
 - Streams & Lambdas Combo
@@ -37,7 +37,8 @@
 - DBMS: Deadlocks
 - Microservices Architecture (e.g., Saga, DB per service, etc.), how do you design from scratch? How do microservices communicate? (sync vs async, rest api call vs msg)
 - Java 8 to Java 21 Features
-###- TDD vs BDD
+
+✅ TDD vs BDD
 
 Bonus Materials:
 - https://www.youtube.com/watch?v=GO67C7V-IbQ&t=1554s
