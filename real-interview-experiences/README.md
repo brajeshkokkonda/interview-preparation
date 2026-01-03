@@ -37,7 +37,7 @@
 - DBMS: Deadlocks
 - Microservices Architecture (e.g., Saga, DB per service, etc.), how do you design from scratch? How do microservices communicate? (sync vs async, rest api call vs msg)
 - Java 8 to Java 21 Features
-- TDD vs BDD
+###- TDD vs BDD
 
 Bonus Materials:
 - https://www.youtube.com/watch?v=GO67C7V-IbQ&t=1554s
