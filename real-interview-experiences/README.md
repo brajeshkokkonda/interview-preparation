@@ -3,7 +3,7 @@
 ### Nov-Dec 2025
 
 ✅ Using Enum in Java, writean  abstract method to perform ADD, SUB, MUL
-- Java Collections (List.of, Arrays.asList, Map, List, Set, Queue, Mutable vs Immutable, Thread safe, HashMap & ConcurrentHashMap) -> Internal Implementations
+- ✅ Java Collections (List.of, Arrays.asList, Map, List, Set, Queue, Mutable vs Immutable, Thread safe, HashMap & ConcurrentHashMap) -> Internal Implementations
 - HashMap, HashTable (how are duplicate keys handled? internal implementation, collisions, etc.)
 - HashCode (how to avoid 2 objs having the same hash code)
 - Datastructures, Time Complexity, Searching, Sorting :: Datastructures (String manipulation: -> find the frequency of characters in string (top 2), -> find non-character, etc...) Tip: Use ChatGPT for various versions or types of these questions
@@ -26,7 +26,7 @@
   
   
 - Multi-Threading (in-depth features, volatile keyword, thread pool), Java Concurrency API, race condition, round robin
-- Java 8 to Java 21 Features  (Ex, virtual threads)
+- ✅ Java 8 to Java 21 Features  (Ex, virtual threads)
 - REST API (design, re-design, bad vs good API design aspects, best practices for rest api design)
 -
 
