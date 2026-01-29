@@ -1,0 +1,27 @@
+Core Fundamentals & OOP
+Four Pillars of OOP: Explain Abstraction, Encapsulation, Inheritance, and Polymorphism with real-world examples.
+Interface vs. Abstract Class: An interface is a contract (usually for "can-do" behaviors), while an abstract class is for "is-a" relationships and can hold state.
+== vs. equals(): == compares memory references; .equals() compares the actual content of objects.
+Why are Strings Immutable? To ensure security, thread safety, and to optimize memory via the String Pool.
+JDK vs. JRE vs. JVM: JDK is for development; JRE provides the environment to run apps; JVM executes the bytecode. 
+Collections & Data Structures
+HashMap Internal Working: Uses hashing to store key-value pairs in "buckets." Be ready to explain hash collisions and how Java 8+ uses balanced trees for optimization.
+ArrayList vs. LinkedList: ArrayList is faster for random access (index-based), while LinkedList is better for frequent insertions or deletions.
+Fail-Fast vs. Fail-Safe Iterators: Fail-fast throws a ConcurrentModificationException if the collection changes during iteration; fail-safe works on a copy. 
+Multithreading & Concurrency
+Thread vs. Runnable: You can create a thread by extending the Thread class or implementing the Runnable interface (preferred for better code design).
+Synchronized Method vs. Block: A synchronized method locks the entire object, while a block provides granular control by locking only a specific code section.
+Deadlock: A situation where two threads are waiting for each other to release locks forever. Prevent this by acquiring locks in a consistent order.
+Volatile Keyword: Ensures a variable's value is always read from and written to main memory, preventing thread-local caching issues. 
+Java 8+ Features
+Lambda Expressions: Anonymous functions that implement functional interfaces, making code more concise.
+Stream API: Used for functional-style processing of collections (e.g., filter, map, reduce).
+Optional Class: A container object used to avoid NullPointerException by explicitly representing the presence or absence of a value. 
+Advanced & Modern Java (Java 11–21)
+Virtual Threads (Java 21): Lightweight threads that significantly reduce the resource overhead of high-concurrency applications.
+Garbage Collection Algorithms: Be familiar with G1 (standard for most) and newer low-latency collectors like ZGC. 
+Coding Questions (Commonly Asked)
+Reverse a String without using built-in library functions.
+Find if a number is Prime or part of the Fibonacci series.
+Check if a string is a Palindrome.
+Find duplicate characters in a string or duplicate elements in a list using Streams.
