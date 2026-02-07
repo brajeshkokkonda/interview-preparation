@@ -47,3 +47,4 @@
 - Maven Build Tool
 - Redis Cache
 - Logs Monitoring (Splunk, Big Panda)
+- Kafka vs RabitMQ
